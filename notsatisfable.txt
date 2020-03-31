@@ -1,0 +1,5 @@
+c formula not satisfable
+c 
+p cnf 64 453 
+1 0 
+-1 0 
