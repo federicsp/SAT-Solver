@@ -1,11 +1,10 @@
 # SAT-Solver
-Implementation of DPLL Algorithm in python.
+Implementation of DPLL Algorithm in python,  it takes input from a file in Dimacs format specifying a cnf formula.
 
 
 # How to use
 Type in python dpll__solver.py to execute the python script,
-then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt). The solution is written on file_solution.txt
-
+Then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt), and the prompt:"Type the name of the file.txt where you want to write the output".
 # Example
 Let the input be:
 
