@@ -1,10 +1,10 @@
 # SAT-Solver
-Implementation of DPLL Algorithm in python:
+Implementation of DPLL Algorithm in python.
 
 
 # How to use
-Type in python dpll__solver.py to execute the python script
-Then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt)
+Type in python dpll__solver.py to execute the python script,
+then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt)
 
 # Example
 Let the input be:
