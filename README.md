@@ -32,7 +32,7 @@ Here, the formuls is satisfiable. Variables -2,1,3 are assigned true.
 # Considerations
 The algorithm works only with small formulas, it doesn't work with the mini_sudoku.txt and more complex formulas.
 
-The algorithm returns "0" if the formula is unsatisfable and if it doesn't find a valuation (i.d. a vector of assignments that it brings the formula to be True).
+The algorithm returns "0" if the formula is unsatisfable and if it doesn't find a valuation (i.e. a vector of assignments that it brings the formula to be True).
 
 
 
