@@ -4,7 +4,7 @@ Implementation of DPLL Algorithm in python.
 
 # How to use
 Type in python dpll__solver.py to execute the python script,
-then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt)
+then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt). The solution is written on file_solution.txt
 
 # Example
 Let the input be:
