@@ -27,9 +27,7 @@ The output is
 ```
 Here, the formuls is satisfiable. Variables -2,1,3 are assigned true.
 
-# Considerations
-The algorithm  doesn't work with long formulas ( for example the mini_sudoku.txt and more complex formulas), I tried to implement different ways to improve the algorithm: for example seeking better ways to select the literal or going back to some particular time after an unsuccesful recursion (and restarting from there the recursion) but it didn't work.
-
+# Considerations 
 The algorithm returns "0" if the formula is unsatisfable and if it doesn't find a valuation (i.e. a vector of assignments that it brings the formula to be True).
 
 
