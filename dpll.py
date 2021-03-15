@@ -52,7 +52,6 @@ def cnf_has_a_clause_false(cnf):
 k=0    
     
 def dpll(cnff,list_cnf,val):
-    global k
     k=k+1
     if k==2000:
         return "0"
