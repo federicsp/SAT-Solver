@@ -4,7 +4,7 @@ Implementation of DPLL Algorithm in python,  it takes input from a file in Dimac
 
 # How to use
 Type in python dpll__solver.py to execute the python script,
-Then It appears the prompt: "Type the name of the file.txt : " so It needs the name of the file (for example satisfable.txt), and the prompt:"Type the name of the file.txt where you want to write the output".
+
 # Example
 Let the input be:
 
